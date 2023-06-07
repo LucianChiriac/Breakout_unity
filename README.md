@@ -1,1 +1,2 @@
 # Breakout_unity
+The classic breakout (brick-breaker) game, redesigned with special mechanics. The game revolves around 4 elements: fire, ice, water, electricity with different interactions between them. The player can change the element of the sliding bar by pressing buttons 1/2/3/4. On contact with the slider, the ball takes on the element of the slider. The interaction between the ball and the bricks depends on their corresponding elements, each combination having special mechanics and/or hit damage.
